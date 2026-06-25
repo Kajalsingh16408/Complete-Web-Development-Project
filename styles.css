@@ -1,0 +1,4 @@
+@media (max-width: 768px) {
+  nav { flex-direction: column; }
+  img { width: 100%; }
+}
